@@ -1,8 +1,6 @@
 Nuke Plugin Walker
 ==================
 
-***
-
 ## The Short Description
 
 
@@ -10,7 +8,6 @@ An auto discovery and loading script for The Foundry's Nuke Compositing Applicat
 
 Supports adding of plugin paths to the nuke pluginpath, python sys.path and controlled versioning of plugins. 
 
-***
 
 ## A Slightly Longer Description
 
@@ -28,7 +25,6 @@ This simple python snippet makes my life much easier when packaging up new plugi
 
 This script *removes* the requirement for each plugin to feature this snippet and also provides handling for multiple versioning of plugins installed on the system. 
 
-***
 
 ## Simple Usage Instructions
 
@@ -76,3 +72,5 @@ For us the patch versions are controlled and search-able via the system package 
 
     Package Name          Package Version
     nuke6.3-myplugin1.0   1.0.2-baseblack-r1
+    
+***    
